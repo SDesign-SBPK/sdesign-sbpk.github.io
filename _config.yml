@@ -19,9 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: sdesign-sbpk
-email: your-email@example.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  The SBPK (Team 14) site
+  The SBPK (Team 14) site.
+  Samuel Fritz
+  Brandon Harvey
+  Philip DiGiorgio
+  Karim Alami
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
