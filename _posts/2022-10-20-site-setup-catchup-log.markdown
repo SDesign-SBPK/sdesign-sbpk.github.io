@@ -30,7 +30,7 @@ October began actual development on the project. Work was divided into four init
 - Database design and deployment
 - AUDL data scraping
 - Weather API research and data retrieval
-- ML research and premilinary algorithm design
+- ML research and preliminary algorithm design
 
 Each of the four areas has (currently) progressed well, with all four areas projected to be completed by the end of the month. The month has largely been about laying groundwork for the next month and a half. We want to make sure that we are setting ourselves up enough to complete a functional product by the end of November/early December, with the alpha prototype demo on December 9. Going forward, we will focus on setting up the ML algorithm (a neural network) with Tensorflow or Keras to be able to make some kinds of initial predictions with either one or two weather factors or individual player data in 1-on-1 matchups.
 

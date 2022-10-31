@@ -17,7 +17,7 @@ September 25
 
 This assignment was about giving some kind of idea of our project to the instructional team for approval. It gives a high level overview of the idea and discusses some of the initial areas that we could focus on.
 
-<a href="sdesign-sbpk.github.io/Project Proposal.pdf" target="_blank">Available Here</a>
+<a href="docs/assets/proposal.pdf" target="_blank">Available Here</a>
 
 Feedback to this writing was mixed, with a focus on scaling down the project. As a result, the scale of the project was minimized to include the predictions and some possible element of fantasy teams, as opposed to a larger kind of app that potentially would have included a social and possible betting side.
 
@@ -44,12 +44,18 @@ October 12
 
 This presentation was about creating a brief summary of the project as if we were presenting to potential investors. It gives some overview of the product but does not go into any detail about any technical elements.
 
-<a href="sdesign-sbpk.github.io/Presentation 1 - Elevator Pitch.pdf" target="_blank">Available Here</a>
+<a href="docs/assets/pres1.pdf" target="_blank">Available Here</a>
 
 Feedback to the presentation was generally negative, with an emphasis on a lack of focus. We did not have any visual mockups of the project and did not go in depth with any aspect of it. Due to the feedback of a practice presentation and to the project proposal, we scaled down a lot of the original ideas. Now, feedback included the idea that the project was not complicated enough. The main aspect of feedback was on the proposed fantasy elements of the app appearing disinteresting to the audience and a clear target audience missing.
 
 ### Presentation 2: Project Design
 October 26
+
+This presentation was about creating a brief summary of the technical aspects of the project as if presenting to a project manager. It gives a brief reminder of the product and then gives the general layout of the architecture of the app followed by details about each key area of the project.
+
+<a href="docs/assets/pres2.pdf" target="_blank">Available Here</a>
+
+We do not have feedback on the presentation yet.
 
 ### Presentation 3: Demo 1 - Alpha Prototype
 December 9
