@@ -2,7 +2,6 @@
 layout: post
 title:  "Site Setup - Catchup Log"
 date:   2022-10-20 11:23:49 -0400
-categories: jekyll update
 ---
 
 First post on the site. This is serving as a catch up of all the previous activities in the semester regarding the project. Going forward, these should be more frequent and smaller logs of what is happening for the project.

@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: about
 title: About the Team
-permalink: /about/
 ---
 
 ## Karim Alami

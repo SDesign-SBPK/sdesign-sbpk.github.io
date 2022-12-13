@@ -2,10 +2,6 @@
 layout: home
 ---
 
-
-This is the site that serves as the collection of some of the work being done for our senior project.
-The site is mainly just the different deliverables and some information about the project. We may potentially use it to also collect some documentation pages for our code, but that remains to be seen.
-
 ## Project Overview
 
 Our project is called the UPE - the Ultimate Prediction Engine. We are building an ultimate frisbee prediction app for the AUDL (American Ultimate Disc League). The core of the project is a neural network that predicts the outcome of games based on player/team statistics in combination with weather data. The final product will include some fantasy elements, including the ability to choose your own team using people from all different teams and creating hypothetical matchups.
@@ -32,7 +28,9 @@ October 30
 This writing assignment was completed individually and differs for each person.
 
 ### Writing 3: Project Description
-November 20
+November 29
+
+<a href="docs/assets/writing3.pdf" target="_blank">Available Here</a>
 
 ### Writing 4: Technical Design Document
 December 14
@@ -55,7 +53,13 @@ This presentation was about creating a brief summary of the technical aspects of
 
 <a href="docs/assets/pres2.pdf" target="_blank">Available Here</a>
 
-We do not have feedback on the presentation yet.
+Feedback was somewhat neutral. The general consensus was that we presented good ideas but needed to go a little bit more in depth for each aspect. 
 
 ### Presentation 3: Demo 1 - Alpha Prototype
-December 9
+December 7
+
+This presentation was about giving an overview of the system at the Alpha prototype stage of development
+
+<a href="docs/assets/pres3.pdf" target="_blank">Available Here</a>
+
+We do not have feedback on the presentation yet.

@@ -2,7 +2,6 @@
 layout: post
 title:  "End of October"
 date:   2022-10-30 11:23:49 -0400
-categories: jekyll update
 ---
 
 The end of October means that the first sprint in the project is being wrapped up. Overall, the first sprint was largely about setting up all of the necessary pieces for future development. This includes database design, data scraping for both AUDL and weather, and research into the future structure of the prediction algorithm.

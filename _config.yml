@@ -19,6 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: sdesign-sbpk
+heading: UPE
+subheading: An innovative prediction engine for ultimate frisbee
+banner: banner_image.jpeg
 email: 
 description: >-
   The SBPK (Team 14) site
@@ -32,7 +35,8 @@ twitter_username:
 github_username:  sdesign-sbpk
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
 
