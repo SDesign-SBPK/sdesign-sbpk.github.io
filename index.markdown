@@ -35,6 +35,8 @@ November 29
 ### Writing 4: Technical Design Document
 December 14
 
+<a href="docs/assets/writing4.pdf" target="_blank">Available Here</a>
+
 ## Presentations
 
 ### Presentation 1: Project Elevator Pitch
