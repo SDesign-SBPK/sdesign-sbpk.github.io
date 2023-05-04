@@ -28,7 +28,6 @@ description: >-
   Samuel Fritz
   Brandon Harvey
   Philip DiGiorgio
-  Karim Alami
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
