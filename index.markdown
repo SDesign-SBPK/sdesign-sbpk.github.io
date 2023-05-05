@@ -21,9 +21,13 @@ The Github repository and all code for the project can be found [here](https://g
 
 This writing assignment was completed individually and differs for each person.
 
+Writing 1 is included as one of the first parts of writing 4.
+
 #### Writing 2: Technical Summary
 
 This writing assignment was completed individually and differs for each person.
+
+Writing 2 is included as one of the first parts of writing 4.
 
 #### Writing 3: Project Description
 
