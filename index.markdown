@@ -69,4 +69,6 @@ Available [here](https://drive.google.com/file/d/1UQqCRkEtELlwZdOD5DeGeUk5H5Nz5v
 
 ### Poster
 
-<a href="docs/assets/poster_slides.pdf" target="_blank">Available Here</a>
+<a href="docs/assets/poster.pdf" target="_blank">Available Here</a>
+
+<a href="docs/assets/poster_slides.pdf" target="_blank">Indiviudal Slides Available Here</a>
